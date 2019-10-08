@@ -1,6 +1,6 @@
 name       : ruby-win32-file
 version    : 0.8.2
-release    : 2
+release    : 3
 source     :
     - https://rubygems.org/downloads/win32-file-0.8.2.gem : ac4089bd5a17f302f189c76fe16e1a6da45cfabf8d2af8fd66c92de77a16e252
 license    : Artistic-2.0
